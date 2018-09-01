@@ -1,0 +1,3 @@
+[submodule "scriptcraft"]
+	path = scriptcraft
+	url = https://github.com/LewisGet/sencer

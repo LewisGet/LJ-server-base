@@ -1,0 +1,1 @@
+java -server -d64 -Xms8G -Xmx8G -jar craftbukkit-1.12.2.jar

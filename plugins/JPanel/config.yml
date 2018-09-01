@@ -1,0 +1,11 @@
+http-port: 8888
+debug-mode: false
+use-ssl: false
+keystore-name: ''
+keystore-password: ''
+users:
+  lewis:
+    password: 1000:78c901eb4e507180b3a9a023ae90f20a:3c76a900d39fdd9b0e62af5e0b543769822a8d586deb3ee26819f6222c833aa19efaacf8e52c3737ca70e7f72456215335d8bfc579c3357b1d6fa5cfba82b2b9
+    canEditFiles: false
+    canChangeGroups: false
+    canSendCommands: true
